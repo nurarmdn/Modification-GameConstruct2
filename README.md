@@ -1,4 +1,5 @@
 Pada game Platformer  “Catch a Butterfly” ini, player akan dihadapkan pada platform yang berbeda-beda. Tujuan game ini yaitu mengumpulkan skor hingga jumlah yang ditentukan, sehingga player dapat membuka pintu dan menyelesaikan permainan, jika skor yang didapat tidak sesuai dengan jumlah yang ditargetkan maka pintu akan tertutup dan player tidak bisa menyelesaikan permainan.
+
 Alur Game:
 1.	Pertama-tama saat game dimainkan layar menampilkan halaman awal yang berisi judul dan tombol untuk memulai permainan.
 2.	Setelah tombol di klik, maka permainan dimulai dengan trial game yaitu percobaan untuk menyesuaikan cara bermain. Permainan dilakukan dengan cara menekan tombol W/A/S/D, jika player jatuh maka sistem akan mengulang trial game.
